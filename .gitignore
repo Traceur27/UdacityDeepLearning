@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
-
+*.gz
+notMNIST_small/
+notMNIST_large/
